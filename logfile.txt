@@ -1,0 +1,21 @@
+------------23 Jun 2021 | 04:56:00 PM-------------
+City Name - Pune
+The temperature is   : 26.98 deg C
+Weather Description  : overcast clouds
+Status code - Successful
+
+------------23 Jun 2021 | 04:56:12 PM-------------
+##########
+city not found
+##########
+Status code - Failed
+Error Message - City not found!
+City Name - Random name entered
+
+------------23 Jun 2021 | 04:56:24 PM-------------
+**********
+Check your internet connection and try again!
+**********
+Status code - Failed
+Error Message - Internet Connection Failure!
+
